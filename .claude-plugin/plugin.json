@@ -1,0 +1,7 @@
+{
+  "name": "sidebar-status",
+  "version": "0.2.0",
+  "description": "Marks the session title with an emoji so the Claude desktop sidebar shows which session waits for your answer, failed, or still works in the background.",
+  "author": { "name": "jromainkrupa" },
+  "license": "MIT"
+}

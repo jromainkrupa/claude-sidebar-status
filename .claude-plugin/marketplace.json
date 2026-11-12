@@ -1,0 +1,6 @@
+{
+  "name": "claude-sidebar-status",
+  "description": "The sidebar-status mod: session state marks in the Claude desktop sidebar.",
+  "owner": { "name": "jromainkrupa" },
+  "plugins": [{ "name": "sidebar-status", "source": "./" }]
+}
